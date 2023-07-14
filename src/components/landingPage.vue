@@ -10,7 +10,7 @@
     <button class="button download text-warning">Download My CV</button>
     <div>
     <img src="./../assets/png2.png" class="pic">
-</div>
+    </div>
 </div>
 </div>
 </body>
