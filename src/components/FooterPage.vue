@@ -1,7 +1,7 @@
 <template>
     <link href="https://fonts.googleapis.com/css2?family=Caprasimo&family=Open+Sans:wght@500;700&display=swap" rel="stylesheet">
 
-    <nav class="navbar fixed-bottom navbar-light bg-warning">
+    <nav class="navbar navbar-light bg-warning">
   <div class="container-fluid">
     <!-- <a class="navbar-brand" href="#">Fixed bottom</a> -->
     <li class="nav">

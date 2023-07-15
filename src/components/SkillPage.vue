@@ -1,6 +1,6 @@
 <template>
     <body>
-        <h1 class="about">About Me</h1>
+        <h1 class="about">Get to know me</h1>
         <div class="card mb-3 skill" style="max-width: 540px;">
   <div class="row g-0">
     <div class="col-md-4">
@@ -8,8 +8,8 @@
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <h5 class="card-title desc">Bachelor's degree in Computer Science</h5>
+        <p class="card-text desc">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
       </div>
     </div>
@@ -25,15 +25,16 @@ export default {
 </script>
 <style scoped>
 body{
-    background-color: #212529;
+    background-color: #201920;
     height: 100vh;
 }
 
 .skill{
     gap: 20px;
-    padding: 100px 60px;
+    padding: 20px 60px;
     margin: 0 100px;
     top: 20px;
+    height: 250px;
     color: azure;
     text-align: justify;
     background-color: #FDD700;
@@ -45,7 +46,7 @@ body{
 }
 
 .about{
-    padding-top: 60px;
+    padding-top: 70px;
     color: #FDD700;
     font-family: 'Caprasimo', cursive;
 }
@@ -58,5 +59,59 @@ body{
     right: 100px;
     top: 120vh;
 }
+
+/* responsive design */
+@media screen and (max-width: 1230px) 
+{   
+    .pic{
+    height: 400px;
+    top: 100px;
+}
+}
+
+@media screen and (max-width: 1290px) and (min-width: 1100px)
+{ 
+    .about{
+        font-size: 30px;
+    } 
+ 
+    .pic{
+    height: 200px;
+    top: 100px;
+    }
+    .aboutPNG{
+      right: 100px;
+      top: 120vh;
+      height: 300px;
+    }
+
+}
+
+@media screen and (max-width: 1100px) and (min-width: 500px)
+{ 
+  body{
+    height: 130vh;
+  }
+    .about{
+        font-size: 20px;
+    }  
+    .desc{
+      font-size: 15px ;
+      
+    }  
+    .skill{
+      height: 400px;
+    }  
+    .pic{
+    height: 150px;
+    }
+    .aboutPNG{
+      right: 130px;
+      top: 175vh;
+      height: 300px;
+    }
+
+}
+
 
 </style>
