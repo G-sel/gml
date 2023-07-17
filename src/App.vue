@@ -1,5 +1,6 @@
 <template>
   <link href="https://fonts.googleapis.com/css2?family=Caprasimo&family=Open+Sans:wght@500;700&display=swap" rel="stylesheet">
+  
   <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <landingPage/>
