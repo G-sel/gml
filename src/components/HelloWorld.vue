@@ -13,7 +13,10 @@
           <a href="https://www.facebook.com/" class="nav-link navText" >Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link navText " href="./SkillPage.vue">About Me</a>
+          <!-- <a class="nav-link navText " href="./SkillPage.vue">About Me</a> -->
+          <a @click="$refs.something.$el.scrollIntoView()">
+    About Me
+</a>
         </li>
         <li class="nav-item">
           <a class="nav-link navText " href="./FooterPage.vue">Contact</a>
