@@ -10,7 +10,7 @@
     <h1 class="text-light flex-start font">I'm a &nbsp;<p class="text-warning"> Web Developer</p></h1>
     <div class="button flex-start">
     <button class="button about bg-warning ">About Me</button>
-    <button class="button download "><a href="./../assets/LORO_GSEL_RESUME.pdf" class="text-download text-warning" download>Download My CV</a></button>
+    <!-- <button class="button download "><a href="./../assets/LORO_GSEL_RESUME.pdf" class="text-download text-warning" download>Download My CV</a></button> -->
     <div>
     <img src="./../assets/png2.png" class="pic">
     </div>
