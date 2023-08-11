@@ -28,6 +28,7 @@ body{
     height:90vh;
     /* background-color: #212529; */
     font-family: 'Kanit', sans-serif;
+    color: #374151;
 }
 
 .svg1{
