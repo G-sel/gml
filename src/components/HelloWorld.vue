@@ -14,9 +14,7 @@
         </li>
         <li class="nav-item">
           <!-- <a class="nav-link navText " href="./SkillPage.vue">About Me</a> -->
-          <a @click="$refs.something.$el.scrollIntoView()">
-    About Me
-</a>
+          <router-link to="#about">About Me</router-link>
         </li>
         <li class="nav-item">
           <a class="nav-link navText " href="./FooterPage.vue">Contact</a>
