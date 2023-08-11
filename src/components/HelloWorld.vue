@@ -4,7 +4,7 @@
   <div class="container-fluid">
     <a class="navbar-brand logo text-warning" href="#">GL.</a>
     <!-- <a class="navbar-brand" href="#">Navbar w/ text</a> -->
-    <button class="navbar-toggler navbar-light-active-color" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler navbar-light-active-color border-outline-warning" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon "></span>
     </button>
     <div class="collapse navbar-collapse " id="navbarText">
@@ -13,10 +13,10 @@
           <a class="nav-link navText" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link navText " href="./SkillPage.vue">About Me</a>
+          <a class="nav-link navText " href="./SkillPage">About Me</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link navText " href="./FooterPage.vue">Contact</a>
+          <a class="nav-link navText " href="./FooterPage">Contact</a>
         </li>
       </ul>
       <span class="navbar-text">
