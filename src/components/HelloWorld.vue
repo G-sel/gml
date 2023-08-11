@@ -13,10 +13,10 @@
           <a class="nav-link navText" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link navText " href="#">About Me</a>
+          <a class="nav-link navText " href="./SkillPage.vue">About Me</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link navText " href="#">Contact</a>
+          <a class="nav-link navText " href="./FooterPage.vue">Contact</a>
         </li>
       </ul>
       <span class="navbar-text">
