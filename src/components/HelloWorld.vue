@@ -14,7 +14,7 @@
         </li>
         <li class="nav-item">
           <!-- <a class="nav-link navText " href="./SkillPage.vue">About Me</a> -->
-          <router-link to="#SkillPage">About Me</router-link>
+          <a><router-link to="#SkillPage">About Me</router-link></a>
         </li>
         <li class="nav-item">
           <a class="nav-link navText " href="./FooterPage.vue">Contact</a>
