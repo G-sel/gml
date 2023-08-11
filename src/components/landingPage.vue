@@ -2,18 +2,13 @@
     
     <body>
 <div class="container">
-    <svg class="svg1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#A7F0BA" d="M68.7,-20.5C78.2,7,67.6,42.8,47.3,55.3C26.9,67.8,-3.4,57,-23.6,40.5C-43.7,23.9,-53.9,1.5,-48.3,-20.6C-42.7,-42.7,-21.4,-64.6,4.1,-65.9C29.6,-67.3,59.2,-48,68.7,-20.5Z" transform="translate(100 100)" />
-</svg>
+
     <p class="flex-start greet">Let's create your website</p>
     <h1 class="text-light flex-start name font">This is &nbsp;<p class="text-warning"> G-sel Loro</p></h1>
     <h1 class="text-light flex-start font">I'm a &nbsp;<p class="text-warning"> Web Developer</p></h1>
     <div class="button flex-start">
     <button class="button about bg-warning ">About Me</button>
     <!-- <button class="button download "><a href="./../assets/LORO_GSEL_RESUME.pdf" class="text-download text-warning" download>Download My CV</a></button> -->
-    <div>
-    <img src="./../assets/png2.png" class="pic">
-    </div>
 </div>
 </div>
 </body>
