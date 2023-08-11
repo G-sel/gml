@@ -31,7 +31,7 @@ export default {
 
 body{
     height:90vh;
-    background-color: #212529;
+    /* background-color: #212529; */
     font-family: 'Kanit', sans-serif;
 }
 
@@ -56,7 +56,7 @@ body{
     transform: scaleX(-1);
 }
 .greet{
-    font-family: 'Pacifico', cursive;
+    /* font-family: 'Pacifico', cursive; */
     color: #fdd700;
 }
 .container{
