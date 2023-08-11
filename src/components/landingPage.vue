@@ -7,7 +7,7 @@
     <h1 class="text-light flex-start name font">This is &nbsp;<p class="text-warning"> G-sel Loro</p></h1>
     <h1 class="text-light flex-start font">I'm a &nbsp;<p class="text-warning"> Web Developer</p></h1>
     <div class="button flex-start">
-    <button  class="button about bg-warning "><a href="https://drive.google.com/file/d/1Jxkxvz7Dg-FR8-ve1WyN3-xPkzw7ig99/view?usp=sharing" target="_blank" class="text-decoration-none">About Me</a></button>
+    <button  class="button about bg-warning "><a href="https://drive.google.com/file/d/1Jxkxvz7Dg-FR8-ve1WyN3-xPkzw7ig99/view?usp=sharing" target="_blank" class="text-decoration-none">Download Resume</a></button>
     <!-- <button class="button download "><a href="./../assets/LORO_GSEL_RESUME.pdf" class="text-download text-warning" download>Download My CV</a></button> -->
 </div>
 </div>
