@@ -13,12 +13,7 @@
           <a href="https://www.facebook.com/" class="nav-link navText" >Home</a>
         </li>
         <li class="nav-item">
-          <!-- <a class="nav-link navText " href="./SkillPage.vue">About Me</a> -->
-          <router-link
-    :to="{
-        name: '#',
-        hash: '#SkillPage'
-    }">About</router-link>
+          <a class="nav-link navText " href="#SkillPage">About Me</a>
         </li>
         <li class="nav-item">
           <a class="nav-link navText " href="./FooterPage.vue">Contact</a>
