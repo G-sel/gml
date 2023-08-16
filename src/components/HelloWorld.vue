@@ -1,6 +1,6 @@
 <template>
 <!-- new nav bar -->
-<nav class="navbar navbar-expand-lg bg-#000">
+<nav class="navbar navbar-expand-lg bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand logo text-warning" href="#">GL.</a>
     <!-- <a class="navbar-brand" href="#">Navbar w/ text</a> -->
