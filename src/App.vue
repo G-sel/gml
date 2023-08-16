@@ -4,22 +4,22 @@
   <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <landingPage/>
-  <SkillPage/>
+  <!-- <SkillPage/> -->
   <!-- <FooterPage/> -->
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 import landingPage from './components/landingPage.vue'
-import SkillPage from './components/SkillPage.vue';
+// import SkillPage from './components/SkillPage.vue';
 // import FooterPage from './components/FooterPage.vue'
 
 export default {
   name: 'App',
   components: {
     HelloWorld,
-    landingPage,
-    SkillPage
+    landingPage
+    // SkillPage
     // FooterPage
   }
 }
