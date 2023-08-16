@@ -3,7 +3,7 @@
     <body>
 <div class="container">
 
-    <p class="flex-start text-light">Let's create your website</p>
+    <p class="flex-start text-light">Let's create your website!</p>
     <h1 class="text-light flex-start">This is &nbsp;<p class="text-warning name"> G-sel Loro</p></h1>
     <h1 class="text-light flex-start font">I'm a &nbsp;<p class="text-warning name"> Web Developer</p></h1>
     <div class="button flex-start">
